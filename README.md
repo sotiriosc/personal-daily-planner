@@ -97,3 +97,14 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+I found this challenge rather straight forward this week. I utilized all the skills I have picked up over the course to build this daily planner. 
+
+[Image of Website example](./Assets/05-third-party-apis-homework-demo.gif)
+
+The URL of the deployed application: https://sotiriosc.github.io/personal-daily-planner/
+
+The URL of the GitHub repository: https://github.com/sotiriosc/personal-daily-planner
